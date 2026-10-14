@@ -2,13 +2,18 @@
 
 [![status](https://img.shields.io/badge/status-personal-blue)](https://github.com/alexmayooo/Videojuegos)
 
+## Sobre mi
+Soc Alex Mayo, estudio 1r curs de grau superior de DAW i soc aficionat i videojocs i esports.
+
 ## Descripció
 Aquest repositori és una wiki personal per documentar les meves preferències en videojocs, esports i gastronomia. És un espai senzill i organitzat per tenir la informació clara i fàcil de consultar.
 
 ## Índex
+- [Sobre mi](#sobre-mi)
 - [Videojocs preferits](#videojocs-preferits)
 - [Esports preferits](#esports-preferits)
 - [Menjars preferits](#menjars-preferits)
+- [Habilitats i tecnologies](#habilitats-i-tecnologies)
 - [Objectiu del repositori](#objectiu-del-repositori)
 - [Estructura del repositori](#estructura-del-repositori)
 - [Com contribuir](#com-contribuir)
@@ -37,6 +42,15 @@ Aquest repositori és una wiki personal per documentar les meves preferències e
 | Arròs | Plat versàtil i molt estimat |
 | Pasta | Opció habitual i molt versàtil |
 
+## Habilitats i tecnologies
+
+| Habilitat | Nivell |
+| --- | --- |
+| Git / GitHub | Bàsic - Mitjà |
+| Markdown | Mitjà |
+| Python | Bàsic - Mitjà |
+| Unity | Bàsic |
+
 ## Objectiu del repositori
 Mantenir un lloc personal on recopilar i organitzar preferències i interessos, amb la possibilitat d'ampliar-lo en el futur amb noves seccions o informació addicional.
 
@@ -52,3 +66,6 @@ Aquest és un repositori personal, però si vols suggerir canvis:
 
 ## Contacte
 Perfil GitHub: https://github.com/alexmayooo
+
+## Imatge
+![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
