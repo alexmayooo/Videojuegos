@@ -1,34 +1,24 @@
 # La meva wiki personal
 
-[![status](https://img.shields.io/badge/status-personal-blue)](https://github.com/alexmayooo/Videojuegos)
-
-## Sobre mi
-Soc Alex Mayo, estudio 1r curs de grau superior de DAW i soc aficionat i videojocs i esports.
-
-## Descripció
-Benvingut/a al meu repositori personal, un espai dedicat a recopilar i organitzar les meves preferències en videojocs, esports i gastronomia. Aquest projecte funciona com a wiki personal amb l'objectiu de mantenir la informació ordenada, clara i fàcil de consultar. La idea és crear un recurs senzill però ben estructurat per documentar els meus interessos i aficions de manera personal i professional.
+## Introducció
+Aquest document recull les meves preferències en videojocs, esports i gastronomia. Està organitzat perquè sigui fàcil de llegir i d'actualitzar.
 
 ## Índex
-- [Sobre mi](#sobre-mi)
 - [Videojocs preferits](#videojocs-preferits)
 - [Esports preferits](#esports-preferits)
 - [Menjars preferits](#menjars-preferits)
-- [Habilitats i tecnologies](#habilitats-i-tecnologies)
-- [Objectiu del repositori](#objectiu-del-repositori)
-- [Estructura del repositori](#estructura-del-repositori)
-- [Com contribuir](#com-contribuir)
-- [Contacte](#contacte)
+- [Notes i preferències addicionals](#notes-i-preferencies-addicionals)
 
 ## Videojocs preferits
 
 | Joc | Gènere | Observacions |
 | --- | --- | --- |
-| FIFA | Simulació esportiva | Un clàssic dels jocs de futbol, molt competitiu |
-| Rocket League | Arcade / Esport | Divertit i ràpid; combina cotxes i futbol en partides curtes |
+| FIFA | Simulació esportiva | Partides competives i mode multijugador |
+| Rocket League | Arcade / Esport | Partides ràpides, mecànica única (cotxes + futbol) |
 
 ## Esports preferits
 
-| Esport | Observacions |
+| Esport | Rol / Observacions |
 | --- | --- |
 | Futbol | Segueixo partits i lligues amb interès |
 | Handbol | M'agrada la intensitat i el ritme del joc |
@@ -38,34 +28,12 @@ Benvingut/a al meu repositori personal, un espai dedicat a recopilar i organitza
 
 | Menjar | Tipus / Observacions |
 | --- | --- |
-| Hamburguesa | Comfort food, variant preferida amb formatge i ceba |
-| Arròs | Plat versàtil i molt estimat |
-| Pasta | Opció habitual i molt versàtil |
+| Hamburguesa | Comfort food, m'agrada amb formatge i ceba |
+| Arròs | Molt versàtil (paella, acompanyaments, etc.) |
+| Pasta | Opció habitual, fàcil de preparar i variar |
 
-## Habilitats i tecnologies
+## Notes i preferències addicionals
+- Plataforma de joc preferida: (afegeix aquí consola/PC si vols)
+- Estil de joc preferit: competitiu / casual / cooperatiu
+- Ressenyes: pots afegir una secció per opinions breus sobre cada joc (ex. puntuació 1–5)
 
-| Habilitat | Nivell |
-| --- | --- |
-| Git / GitHub | Bàsic - Mitjà |
-| Markdown | Mitjà |
-| Python | Bàsic - Mitjà |
-| Unity | Bàsic |
-
-## Objectiu del repositori
-Mantenir un lloc personal on recopilar i organitzar preferències i interessos, amb la possibilitat d'ampliar-lo en el futur amb noves seccions o informació addicional.
-
-## Estructura del repositori
-- `README.md` — document principal i original del repositori
-- `readme2.md` — versió ampliada i resum de la wiki personal
-
-## Com contribuir
-Aquest és un repositori personal, però si vols suggerir canvis:
-1. Obre una issue amb la teva proposta.
-2. Si és un canvi simple, envia un pull request amb la modificació.
-3. Explica breument el motiu del canvi.
-
-## Contacte
-Perfil GitHub: https://github.com/alexmayooo
-
-## Imatge
-![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
