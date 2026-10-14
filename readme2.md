@@ -13,7 +13,6 @@ Aquest repositori és una wiki personal per documentar les meves preferències e
 - [Estructura del repositori](#estructura-del-repositori)
 - [Com contribuir](#com-contribuir)
 - [Contacte](#contacte)
-- [Llicència](#llicència)
 
 ## Videojocs preferits
 
@@ -53,6 +52,3 @@ Aquest és un repositori personal, però si vols suggerir canvis:
 
 ## Contacte
 Perfil GitHub: https://github.com/alexmayooo
-
-## Llicència
-Si vols fer-ho públic amb una llicència, et recomano afegir un fitxer `LICENSE` (per exemple MIT) o indicar explícitament que és un repositori personal i no comercial.
