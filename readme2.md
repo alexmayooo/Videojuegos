@@ -6,7 +6,7 @@
 Soc Alex Mayo, estudio 1r curs de grau superior de DAW i soc aficionat i videojocs i esports.
 
 ## Descripció
-Aquest repositori és una wiki personal per documentar les meves preferències en videojocs, esports i gastronomia. És un espai senzill i organitzat per tenir la informació clara i fàcil de consultar.
+Benvingut/a al meu repositori personal, un espai dedicat a recopilar i organitzar les meves preferències en videojocs, esports i gastronomia. Aquest projecte funciona com a wiki personal amb l'objectiu de mantenir la informació ordenada, clara i fàcil de consultar. La idea és crear un recurs senzill però ben estructurat per documentar els meus interessos i aficions de manera personal i professional.
 
 ## Índex
 - [Sobre mi](#sobre-mi)
