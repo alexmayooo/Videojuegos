@@ -1,17 +1,58 @@
 # La meva wiki personal
+
+[![status](https://img.shields.io/badge/status-personal-blue)](https://github.com/alexmayooo/Videojuegos)
+
+## Descripció
+Aquest repositori és una wiki personal per documentar les meves preferències en videojocs, esports i gastronomia. És un espai senzill i organitzat per tenir la informació clara i fàcil de consultar.
+
+## Índex
+- [Videojocs preferits](#videojocs-preferits)
+- [Esports preferits](#esports-preferits)
+- [Menjars preferits](#menjars-preferits)
+- [Objectiu del repositori](#objectiu-del-repositori)
+- [Estructura del repositori](#estructura-del-repositori)
+- [Com contribuir](#com-contribuir)
+- [Contacte](#contacte)
+- [Llicència](#llicència)
+
 ## Videojocs preferits
-| FIFA |
-| ---- |
-| Rocket league |
+
+| Joc | Gènere | Observacions |
+| --- | --- | --- |
+| FIFA | Simulació esportiva | Un clàssic dels jocs de futbol, molt competitiu |
+| Rocket League | Arcade / Esport | Divertit i ràpid; combina cotxes i futbol en partides curtes |
 
 ## Esports preferits
-| Futbol |
-| ---- |
-| Hanbol |
-| Basquet |
+
+| Esport | Observacions |
+| --- | --- |
+| Futbol | Segueixo partits i lligues amb interès |
+| Handbol | M'agrada la intensitat i el ritme del joc |
+| Bàsquet | Esport dinàmic que segueixo regularment |
 
 ## Menjars preferits
-| Hamburguesa |
-| ---- |
-| Arròs |
-| Pasta |
+
+| Menjar | Tipus / Observacions |
+| --- | --- |
+| Hamburguesa | Comfort food, variant preferida amb formatge i ceba |
+| Arròs | Plat versàtil i molt estimat |
+| Pasta | Opció habitual i molt versàtil |
+
+## Objectiu del repositori
+Mantenir un lloc personal on recopilar i organitzar preferències i interessos, amb la possibilitat d'ampliar-lo en el futur amb noves seccions o informació addicional.
+
+## Estructura del repositori
+- `README.md` — document principal i original del repositori
+- `readme2.md` — versió ampliada i resum de la wiki personal
+
+## Com contribuir
+Aquest és un repositori personal, però si vols suggerir canvis:
+1. Obre una issue amb la teva proposta.
+2. Si és un canvi simple, envia un pull request amb la modificació.
+3. Explica breument el motiu del canvi.
+
+## Contacte
+Perfil GitHub: https://github.com/alexmayooo
+
+## Llicència
+Si vols fer-ho públic amb una llicència, et recomano afegir un fitxer `LICENSE` (per exemple MIT) o indicar explícitament que és un repositori personal i no comercial.
