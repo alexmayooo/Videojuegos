@@ -13,7 +13,6 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 - [Habilitats i tecnologies](#habilitats-i-tecnologies)
 - [Enllaç extern](#enlla%C3%A7-extern)
 - [Imatge](#imatge)
-- [Projectes](#projectes)
 
 ## Videojocs preferits
 
@@ -54,8 +53,3 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 
 ## Imatge
 ![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
-
-## Projectes
-Breu llista de projectes o experiències rellevants:
-- Joc A — Breu descripció i tecnologies utilitzades.
-- Joc B — Breu descripció i enllaç al repositori o demo.
