@@ -1,6 +1,8 @@
 # La meva wiki personal
 
 ## Introducció
+Soc l'Alex Mayo, tinc 18 anys i estic cursant 1r curs de grau superior de DAW.
+
 Aquest document recull les meves preferències en videojocs, esports i gastronomia. Està organitzat perquè sigui fàcil de llegir i d'actualitzar.
 
 ## Índex
@@ -8,6 +10,10 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 - [Esports preferits](#esports-preferits)
 - [Menjars preferits](#menjars-preferits)
 - [Notes i preferències addicionals](#notes-i-preferencies-addicionals)
+- [Habilitats i tecnologies](#habilitats-i-tecnologies)
+- [Enllaç extern](#enlla%C3%A7-extern)
+- [Imatge](#imatge)
+- [Projectes](#projectes)
 
 ## Videojocs preferits
 
@@ -37,3 +43,19 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 - Estil de joc preferit: competitiu / casual / cooperatiu
 - Ressenyes: pots afegir una secció per opinions breus sobre cada joc (ex. puntuació 1–5)
 
+## Habilitats i tecnologies
+- Programació: Python
+- Llibreries / Engines: Unity, Phaser
+- Eines: Git, GitHub, Docker
+- Altres: testing, CI/CD, modelatge 3D bàsic
+
+## Enllaç extern
+- Perfil GitHub: https://github.com/alexmayooo
+
+## Imatge
+![Logo Python](https://www.python.org/static/community_logos/python-logo.png)
+
+## Projectes
+Breu llista de projectes o experiències rellevants:
+- Joc A — Breu descripció i tecnologies utilitzades.
+- Joc B — Breu descripció i enllaç al repositori o demo.
