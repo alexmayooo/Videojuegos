@@ -11,6 +11,7 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 - [Menjars preferits](#menjars-preferits)
 - [Notes i preferències addicionals](#notes-i-preferencies-addicionals)
 - [Habilitats i tecnologies](#habilitats-i-tecnologies)
+- [Els meus objectius](#els-meus-objectius)
 - [Enllaç extern](#enlla%C3%A7-extern)
 - [Imatge](#imatge)
 
@@ -50,6 +51,16 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 | Llibreries / Engines | Unity, Phaser |
 | Eines | Git, GitHub, Docker |
 | Altres | testing, CI/CD, modelatge 3D bàsic |
+
+## Els meus objectius
+
+- Aprendre més sobre sistemes informàtics (objectiu professional)
+- Millorar les meves habilitats en Python i programació web (objectiu professional)
+- Millorar en tot el que pugui (objectiu personal)
+
+Web per aprendre: https://mataro.escolapia.cat/
+
+**Desenvolupament d'aplicacions web**
 
 ## Enllaç extern
 - Perfil GitHub: https://github.com/alexmayooo
