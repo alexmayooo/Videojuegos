@@ -43,10 +43,13 @@ Aquest document recull les meves preferències en videojocs, esports i gastronom
 - Ressenyes: pots afegir una secció per opinions breus sobre cada joc (ex. puntuació 1–5)
 
 ## Habilitats i tecnologies
-- Programació: Python
-- Llibreries / Engines: Unity, Phaser
-- Eines: Git, GitHub, Docker
-- Altres: testing, CI/CD, modelatge 3D bàsic
+
+| Categoria | Tecnologies / Notes |
+| --- | --- |
+| Programació | Python |
+| Llibreries / Engines | Unity, Phaser |
+| Eines | Git, GitHub, Docker |
+| Altres | testing, CI/CD, modelatge 3D bàsic |
 
 ## Enllaç extern
 - Perfil GitHub: https://github.com/alexmayooo
